@@ -1,6 +1,6 @@
 # FlashLight
-Cross-Section flash-light app using JavaFX and threads
-The program gets from the command line how long each flash-light is on, while the green light for pedestrians (the ractangle) is constantly blinking.
+Cross-Section traffic-light app using JavaFX and threads
+The program gets from the command line how long each traffic-light is on, while the green light for pedestrians (the ractangle) is constantly blinking.
 
 
 Grade: 100%
